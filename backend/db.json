@@ -14,6 +14,11 @@
       "name": "Televisao",
       "price": 2000,
       "id": 3
+    },
+    {
+      "name": "Produto teste",
+      "price": null,
+      "id": 4
     }
   ]
 }
