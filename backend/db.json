@@ -17,10 +17,9 @@
     },
     {
       "name": "Produto teste",
-      "price": null,
+      "price": "120.00",
       "id": 4
     },
- 
     {
       "name": "teste",
       "price": "123",
